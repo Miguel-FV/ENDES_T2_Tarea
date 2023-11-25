@@ -1,1 +1,1 @@
-# ENDES_T2_Tarea.
+Mi primer repositorio creado, para realizar la tarea asignada en ENDES.
